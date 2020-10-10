@@ -1119,11 +1119,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\GF63-9RCX\\Documents\\Udemy\\net-core\\DatingApp\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\GF63-9RCX\\Documents\\Udemy\\net-core\\DatingApp\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "c:\\Users\\GF63-9RCX\\Documents\\Udemy\\net-core\\DatingApp\\API\\API.csproj",
+      "projectPath": "C:\\Users\\GF63-9RCX\\Documents\\Udemy\\net-core\\DatingApp\\API\\API.csproj",
       "packagesPath": "C:\\Users\\GF63-9RCX\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\GF63-9RCX\\Documents\\Udemy\\net-core\\DatingApp\\API\\obj\\",
+      "outputPath": "C:\\Users\\GF63-9RCX\\Documents\\Udemy\\net-core\\DatingApp\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\GF63-9RCX\\AppData\\Roaming\\NuGet\\NuGet.Config"
